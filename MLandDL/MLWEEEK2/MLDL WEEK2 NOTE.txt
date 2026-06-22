@@ -1,0 +1,9 @@
+ML/DL WEEK2 NOTE
+Comparative Analysis of Decision Tree, KNN, and K-Means Clustering
+
+Decision tree and KNN are supervised methods whereas k-clustering is unsupervised method.
+supervised methods require labelled data and mostly used for prediction works. unsupervised ones are more for exploratory works.
+Decision Tree-Classification is done  using decision rules. In KNN, it is based on nearest neighbors and K-Means discovers hidden clusters to classify.
+
+
+As for resultsn, KNN demonstrated the highest predictive performance, followed closely by the Decision Tree model. Although K-Means was valuable for understanding the structure of the data, it was not as effective for stellar classification because the dataset already contained labelled classes. Therefore, for the task of accurately classifying stars, galaxies, and quasars, KNN proved to be the most suitable algorithm, while Decision Trees offered the advantage of better interpretability.
